@@ -1,0 +1,365 @@
+﻿# ELDEN RING
+ActionButtonParam applied carefully: SUCCESS
+ DetectedSize: 100
+AiSoundParam applied carefully: SUCCESS
+ DetectedSize: 32
+AssetEnvironmentGeometryParam applied carefully: SUCCESS
+ DetectedSize: 320
+AssetMaterialSfxParam applied carefully: SUCCESS
+ DetectedSize: 128
+AssetModelSfxParam applied carefully: SUCCESS
+ DetectedSize: 128
+AtkParam_Npc applied carefully: SUCCESS
+ DetectedSize: 456
+AtkParam_Pc applied carefully: SUCCESS
+ DetectedSize: 456
+AttackElementCorrectParam applied carefully: SUCCESS
+ DetectedSize: 128
+AutoCreateEnvSoundParam applied carefully: SUCCESS
+ DetectedSize: 32
+BaseChrSelectMenuParam applied carefully: SUCCESS
+ DetectedSize: 32
+BehaviorParam applied carefully: SUCCESS
+ DetectedSize: 32
+BehaviorParam_PC applied carefully: SUCCESS
+ DetectedSize: 32
+BonfireWarpParam applied carefully: SUCCESS
+ DetectedSize: 236
+BonfireWarpSubCategoryParam applied carefully: SUCCESS
+ DetectedSize: 16
+BonfireWarpTabParam applied carefully: SUCCESS
+ DetectedSize: 16
+BuddyParam applied carefully: SUCCESS
+ DetectedSize: 160
+BuddyStoneParam applied carefully: SUCCESS
+ DetectedSize: 64
+BudgetParam applied carefully: SUCCESS
+ DetectedSize: 132
+Bullet applied carefully: SUCCESS
+ DetectedSize: 272
+BulletCreateLimitParam applied carefully: SUCCESS
+ DetectedSize: 32
+CalcCorrectGraph applied carefully: SUCCESS
+ DetectedSize: 80
+Ceremony applied carefully: SUCCESS
+ DetectedSize: 36
+CharaInitParam applied carefully: SUCCESS
+ DetectedSize: 320
+CharMakeMenuListItemParam applied carefully: SUCCESS
+ DetectedSize: 16
+CharMakeMenuTopParam applied carefully: SUCCESS
+ DetectedSize: 48
+ChrActivateConditionParam applied carefully: SUCCESS
+ DetectedSize: 8
+ChrModelParam applied carefully: SUCCESS
+ DetectedSize: 16
+ClearCountCorrectParam applied carefully: SUCCESS
+ DetectedSize: 128
+CoolTimeParam applied carefully: SUCCESS
+ DetectedSize: 32
+CutsceneGparamTimeParam applied carefully: SUCCESS
+ DetectedSize: 16
+CutsceneGparamWeatherParam applied carefully: SUCCESS
+ DetectedSize: 96
+CutSceneTextureLoadParam applied carefully: SUCCESS
+ DetectedSize: 260
+CutsceneTimezoneConvertParam applied carefully: SUCCESS
+ DetectedSize: 8
+CutsceneWeatherOverrideGparamConvertParam applied carefully: SUCCESS
+ DetectedSize: 4
+DecalParam applied carefully: SUCCESS
+ DetectedSize: 248
+DirectionCameraParam applied carefully: SUCCESS
+ DetectedSize: 16
+EnemyCommonParam applied carefully: SUCCESS
+ DetectedSize: 256
+EnvObjLotParam applied carefully: SUCCESS
+ DetectedSize: 64
+EquipMtrlSetParam applied carefully: SUCCESS
+ DetectedSize: 52
+EquipParamAccessory applied carefully: SUCCESS
+ DetectedSize: 96
+EquipParamCustomWeapon applied carefully: SUCCESS
+ DetectedSize: 16
+EquipParamGem applied carefully: SUCCESS
+ DetectedSize: 96
+EquipParamGoods applied carefully: SUCCESS
+ DetectedSize: 176
+FaceParam applied carefully: SUCCESS
+ DetectedSize: 240
+FaceRangeParam applied carefully: SUCCESS
+ DetectedSize: 824
+FeTextEffectParam applied carefully: SUCCESS
+ DetectedSize: 32
+FinalDamageRateParam applied carefully: SUCCESS
+ DetectedSize: 28
+FootSfxParam applied carefully: SUCCESS
+ DetectedSize: 800
+GameAreaParam applied carefully: SUCCESS
+ DetectedSize: 96
+GameSystemCommonParam applied carefully: SUCCESS
+ DetectedSize: 880
+GestureParam applied carefully: SUCCESS
+ DetectedSize: 16
+GparamRefSettings applied carefully: SUCCESS
+ DetectedSize: 32
+GraphicsCommonParam applied carefully: SUCCESS
+ DetectedSize: 256
+GraphicsConfig applied carefully: SUCCESS
+ DetectedSize: 16
+GrassLodRangeParam applied carefully: SUCCESS
+ DetectedSize: 24
+GrassTypeParam applied carefully: SUCCESS
+ DetectedSize: 276
+GrassTypeParam_Lv1 applied carefully: SUCCESS
+ DetectedSize: 276
+GrassTypeParam_Lv2 applied carefully: SUCCESS
+ DetectedSize: 276
+HitEffectSeParam applied carefully: SUCCESS
+ DetectedSize: 640
+HitEffectSfxConceptParam applied carefully: SUCCESS
+ DetectedSize: 80
+HitEffectSfxParam applied carefully: SUCCESS
+ DetectedSize: 80
+HitMtrlParam applied carefully: SUCCESS
+ DetectedSize: 100
+HPEstusFlaskRecoveryParam applied carefully: SUCCESS
+ DetectedSize: 32
+ItemLotParam_enemy applied carefully: SUCCESS
+ DetectedSize: 152
+ItemLotParam_map applied carefully: SUCCESS
+ DetectedSize: 152
+KeyAssignMenuItemParam applied carefully: SUCCESS
+ DetectedSize: 24
+KeyAssignParam_TypeA applied carefully: SUCCESS
+ DetectedSize: 32
+KeyAssignParam_TypeB applied carefully: SUCCESS
+ DetectedSize: 32
+KeyAssignParam_TypeC applied carefully: SUCCESS
+ DetectedSize: 32
+KnockBackParam applied carefully: SUCCESS
+ DetectedSize: 128
+KnowledgeLoadScreenItemParam applied carefully: SUCCESS
+ DetectedSize: 16
+LegacyDistantViewPartsReplaceParam applied carefully: SUCCESS
+ DetectedSize: 64
+LoadBalancerDrawDistScaleParam applied carefully: SUCCESS
+ DetectedSize: 128
+LoadBalancerDrawDistScaleParam_ps4 applied carefully: SUCCESS
+ DetectedSize: 128
+LoadBalancerDrawDistScaleParam_ps5 applied carefully: SUCCESS
+ DetectedSize: 128
+LoadBalancerDrawDistScaleParam_xb1 applied carefully: SUCCESS
+ DetectedSize: 128
+LoadBalancerDrawDistScaleParam_xb1x applied carefully: SUCCESS
+ DetectedSize: 128
+LoadBalancerDrawDistScaleParam_xss applied carefully: SUCCESS
+ DetectedSize: 128
+LoadBalancerDrawDistScaleParam_xsx applied carefully: SUCCESS
+ DetectedSize: 128
+LoadBalancerNewDrawDistScaleParam_ps4 applied carefully: SUCCESS
+ DetectedSize: 48
+LoadBalancerNewDrawDistScaleParam_ps5 applied carefully: SUCCESS
+ DetectedSize: 48
+LoadBalancerNewDrawDistScaleParam_win64 applied carefully: SUCCESS
+ DetectedSize: 48
+LoadBalancerNewDrawDistScaleParam_xb1 applied carefully: SUCCESS
+ DetectedSize: 48
+LoadBalancerNewDrawDistScaleParam_xb1x applied carefully: SUCCESS
+ DetectedSize: 48
+LoadBalancerNewDrawDistScaleParam_xss applied carefully: SUCCESS
+ DetectedSize: 48
+LoadBalancerNewDrawDistScaleParam_xsx applied carefully: SUCCESS
+ DetectedSize: 48
+LoadBalancerParam applied carefully: SUCCESS
+ DetectedSize: 80
+LockCamParam applied carefully: SUCCESS
+ DetectedSize: 128
+Magic applied carefully: SUCCESS
+ DetectedSize: 168
+MapDefaultInfoParam applied carefully: SUCCESS
+ DetectedSize: 64
+MapGdRegionDrawParam applied carefully: SUCCESS
+ DetectedSize: 8
+MapGdRegionInfoParam applied carefully: SUCCESS
+ DetectedSize: 32
+MapGridCreateHeightLimitInfoParam applied carefully: SUCCESS
+ DetectedSize: 32
+MapMimicryEstablishmentParam applied carefully: SUCCESS
+ DetectedSize: 64
+MapNameTexParam applied carefully: SUCCESS
+ DetectedSize: 16
+MapPieceTexParam applied carefully: SUCCESS
+ DetectedSize: 16
+MaterialExParam applied carefully: SUCCESS
+ DetectedSize: 96
+MenuColorTableParam applied carefully: SUCCESS
+ DetectedSize: 32
+MenuCommonParam applied carefully: SUCCESS
+ DetectedSize: 256
+MenuOffscrRendParam applied carefully: SUCCESS
+ DetectedSize: 64
+MenuPropertyLayoutParam applied carefully: SUCCESS
+ DetectedSize: 32
+MenuPropertySpecParam applied carefully: SUCCESS
+ DetectedSize: 32
+MenuValueTableParam applied carefully: SUCCESS
+ DetectedSize: 12
+MimicryEstablishmentTexParam applied carefully: SUCCESS
+ DetectedSize: 16
+MoveParam applied carefully: SUCCESS
+ DetectedSize: 144
+MPEstusFlaskRecoveryParam applied carefully: SUCCESS
+ DetectedSize: 32
+MultiHPEstusFlaskBonusParam applied carefully: SUCCESS
+ DetectedSize: 64
+MultiMPEstusFlaskBonusParam applied carefully: SUCCESS
+ DetectedSize: 64
+MultiPlayCorrectionParam applied carefully: SUCCESS
+ DetectedSize: 32
+MultiSoulBonusRateParam applied carefully: SUCCESS
+ DetectedSize: 128
+NetworkAreaParam applied carefully: SUCCESS
+ DetectedSize: 28
+NetworkMsgParam applied carefully: SUCCESS
+ DetectedSize: 192
+NetworkParam applied carefully: SUCCESS
+ DetectedSize: 632
+NpcAiActionParam applied carefully: SUCCESS
+ DetectedSize: 16
+NpcAiBehaviorProbability applied carefully: SUCCESS
+ DetectedSize: 400
+NpcThinkParam applied carefully: SUCCESS
+ DetectedSize: 228
+ObjActParam applied carefully: SUCCESS
+ DetectedSize: 96
+PartsDrawParam applied carefully: SUCCESS
+ DetectedSize: 144
+PhantomParam applied carefully: SUCCESS
+ DetectedSize: 56
+PlayerCommonParam applied carefully: SUCCESS
+ DetectedSize: 256
+PlayRegionParam applied carefully: SUCCESS
+ DetectedSize: 272
+PostureControlParam_Gender applied carefully: SUCCESS
+ DetectedSize: 64
+PostureControlParam_Pro applied carefully: SUCCESS
+ DetectedSize: 80
+PostureControlParam_WepLeft applied carefully: SUCCESS
+ DetectedSize: 32
+PostureControlParam_WepRight applied carefully: SUCCESS
+ DetectedSize: 112
+RandomAppearParam applied carefully: SUCCESS
+ DetectedSize: 13
+ReinforceParamProtector applied carefully: SUCCESS
+ DetectedSize: 64
+ReinforceParamWeapon applied carefully: SUCCESS
+ DetectedSize: 128
+ResistCorrectParam applied carefully: SUCCESS
+ DetectedSize: 40
+RideParam applied carefully: SUCCESS
+ DetectedSize: 64
+RoleParam applied carefully: SUCCESS
+ DetectedSize: 128
+RollingObjLotParam applied carefully: SUCCESS
+ DetectedSize: 64
+RuntimeBoneControlParam applied carefully: SUCCESS
+ DetectedSize: 112
+SeActivationRangeParam applied carefully: SUCCESS
+ DetectedSize: 4
+SeMaterialConvertParam applied carefully: SUCCESS
+ DetectedSize: 4
+SfxBlockResShareParam applied carefully: SUCCESS
+ DetectedSize: 4
+ShopLineupParam applied carefully: SUCCESS
+ DetectedSize: 52
+ShopLineupParam_Recipe applied carefully: SUCCESS
+ DetectedSize: 52
+SignPuddleParam applied carefully: SUCCESS
+ DetectedSize: 32
+SoundAssetSoundObjEnableDistParam applied carefully: SUCCESS
+ DetectedSize: 4
+SoundAutoEnvSoundGroupParam applied carefully: SUCCESS
+ DetectedSize: 16
+SoundAutoReverbEvaluationDistParam applied carefully: SUCCESS
+ DetectedSize: 20
+SoundAutoReverbSelectParam applied carefully: SUCCESS
+ DetectedSize: 32
+SoundChrPhysicsSeParam applied carefully: SUCCESS
+ DetectedSize: 56
+SoundCommonIngameParam applied carefully: SUCCESS
+ DetectedSize: 64
+SoundCutsceneParam applied carefully: SUCCESS
+ DetectedSize: 36
+SpeedtreeParam applied carefully: SUCCESS
+ DetectedSize: 40
+SpEffectParam applied carefully: SUCCESS
+ DetectedSize: 912
+SpEffectSetParam applied carefully: SUCCESS
+ DetectedSize: 16
+SpEffectVfxParam applied carefully: SUCCESS
+ DetectedSize: 164
+SwordArtsParam applied carefully: SUCCESS
+ DetectedSize: 32
+TalkParam applied carefully: SUCCESS
+ DetectedSize: 96
+ThrowDirectionSfxParam applied carefully: SUCCESS
+ DetectedSize: 144
+ThrowParam applied carefully: SUCCESS
+ DetectedSize: 128
+ToughnessParam applied carefully: SUCCESS
+ DetectedSize: 32
+TutorialParam applied carefully: SUCCESS
+ DetectedSize: 32
+WaypointParam applied carefully: SUCCESS
+ DetectedSize: 16
+WeatherAssetCreateParam applied carefully: SUCCESS
+ DetectedSize: 64
+WeatherAssetReplaceParam applied carefully: SUCCESS
+ DetectedSize: 64
+WeatherLotParam applied carefully: SUCCESS
+ DetectedSize: 82
+WeatherLotTexParam applied carefully: SUCCESS
+ DetectedSize: 16
+WeatherParam applied carefully: SUCCESS
+ DetectedSize: 68
+WepAbsorpPosParam applied carefully: SUCCESS
+ DetectedSize: 96
+WetAspectParam applied carefully: SUCCESS
+ DetectedSize: 32
+WhiteSignCoolTimeParam applied carefully: SUCCESS
+ DetectedSize: 16
+WorldMapLegacyConvParam applied carefully: SUCCESS
+ DetectedSize: 48
+WorldMapPieceParam applied carefully: SUCCESS
+ DetectedSize: 64
+WorldMapPlaceNameParam applied carefully: SUCCESS
+ DetectedSize: 32
+WorldMapPointParam applied carefully: SUCCESS
+ DetectedSize: 256
+WwiseValueToStrParam_BgmBossChrIdConv applied carefully: SUCCESS
+ DetectedSize: 36
+WwiseValueToStrParam_EnvPlaceType applied carefully: SUCCESS
+ DetectedSize: 36
+WwiseValueToStrParam_Switch_AttackStrength applied carefully: SUCCESS
+ DetectedSize: 36
+WwiseValueToStrParam_Switch_AttackType applied carefully: SUCCESS
+ DetectedSize: 36
+WwiseValueToStrParam_Switch_DamageAmount applied carefully: SUCCESS
+ DetectedSize: 36
+WwiseValueToStrParam_Switch_DeffensiveMaterial applied carefully: SUCCESS
+ DetectedSize: 36
+WwiseValueToStrParam_Switch_GrassHitType applied carefully: SUCCESS
+ DetectedSize: 36
+WwiseValueToStrParam_Switch_HitStop applied carefully: SUCCESS
+ DetectedSize: 36
+WwiseValueToStrParam_Switch_OffensiveMaterial applied carefully: SUCCESS
+ DetectedSize: 36
+WwiseValueToStrParam_Switch_PlayerEquipmentBottoms applied carefully: SUCCESS
+ DetectedSize: 36
+WwiseValueToStrParam_Switch_PlayerEquipmentTops applied carefully: SUCCESS
+ DetectedSize: 36
+WwiseValueToStrParam_Switch_PlayerShoes applied carefully: SUCCESS
+ DetectedSize: 36
+WwiseValueToStrParam_Switch_PlayerVoiceType applied carefully: SUCCESS
+ DetectedSize: 36
