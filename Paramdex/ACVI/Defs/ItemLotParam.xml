@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PARAMDEF XmlVersion="0">
+  <ParamType>ITEMLOT_PARAM_ST</ParamType>
+  <DataVersion>5</DataVersion>
+  <BigEndian>False</BigEndian>
+  <Unicode>True</Unicode>
+  <FormatVersion>203</FormatVersion>
+  <Fields>
+    <!-- <Field Def="dummy8 paramSize[156]" /> -->
+    <Field Def="s32 lotItemId01"></Field>
+    <Field Def="s32 lotItemId02"></Field>
+    <Field Def="s32 lotItemId03"></Field>
+    <Field Def="s32 lotItemId04"></Field>
+    <Field Def="s32 lotItemId05"></Field>
+    <Field Def="s32 lotItemId06"></Field>
+    <Field Def="s32 lotItemId07"></Field>
+    <Field Def="s32 lotItemId08"></Field>
+    <Field Def="s32 Unk0009"></Field>
+    <Field Def="s32 Unk0010"></Field>
+    <Field Def="s32 Unk0011"></Field>
+    <Field Def="s32 Unk0012"></Field>
+    <Field Def="s32 Unk0013"></Field>
+    <Field Def="s32 Unk0014"></Field>
+    <Field Def="s32 Unk0015"></Field>
+    <Field Def="s32 Unk0016"></Field>
+    <Field Def="s32 Unk0017"></Field>
+    <Field Def="s32 Unk0018"></Field>
+    <Field Def="s32 Unk0019"></Field>
+    <Field Def="s32 Unk0020"></Field>
+    <Field Def="s32 Unk0021"></Field>
+    <Field Def="s32 Unk0022"></Field>
+    <Field Def="s32 Unk0023"></Field>
+    <Field Def="s32 Unk0024"></Field>
+    <Field Def="s32 Unk0025"></Field>
+    <Field Def="s32 Unk0026"></Field>
+    <Field Def="s32 Unk0027"></Field>
+    <Field Def="s32 Unk0028"></Field>
+    <Field Def="s32 Unk0029"></Field>
+    <Field Def="s32 Unk0030"></Field>
+    <Field Def="s32 Unk0031"></Field>
+    <Field Def="s32 Unk0032"></Field>
+    <Field Def="s32 Unk0033"></Field>
+    <Field Def="s32 Unk0034"></Field>
+    <Field Def="s32 Unk0035"></Field>
+    <Field Def="s32 Unk0036"></Field>
+    <Field Def="s32 Unk0037"></Field>
+    <Field Def="s32 Unk0038"></Field>
+    <Field Def="s32 Unk0039"></Field>
+  </Fields>
+</PARAMDEF>

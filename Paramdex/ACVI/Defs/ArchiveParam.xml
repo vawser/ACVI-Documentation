@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PARAMDEF XmlVersion="0">
+  <ParamType>MAIL_PARAM_ST</ParamType>
+  <DataVersion>2</DataVersion>
+  <BigEndian>False</BigEndian>
+  <Unicode>True</Unicode>
+  <FormatVersion>203</FormatVersion>
+  <Fields>
+    <!-- <Field Def="dummy8 paramSize[128]" /> -->
+    <Field Def="s32 Unk0001"></Field>
+    <Field Def="s32 Unk0002"></Field>
+    <Field Def="s32 Unk0003"></Field>
+    <Field Def="s32 Unk0004"></Field>
+
+    <Field Def="s32 Unk0005"></Field>
+    <Field Def="s32 Unk0006"></Field>
+    <Field Def="s32 Unk0007"></Field>
+    <Field Def="s32 Unk0008"></Field>
+
+    <Field Def="s32 Unk0009"></Field>
+    <Field Def="s32 Unk0010"></Field>
+    <Field Def="s32 Unk0011"></Field>
+    <Field Def="s32 Unk0012"></Field>
+
+    <Field Def="s32 Unk0013"></Field>
+    <Field Def="s32 Unk0014"></Field>
+    <Field Def="s32 Unk0015"></Field>
+    <Field Def="s32 Unk0016"></Field>
+
+    <Field Def="s32 Unk0017"></Field>
+    <Field Def="s32 Unk0018"></Field>
+    <Field Def="s32 Unk0019"></Field>
+    <Field Def="s32 Unk0020"></Field>
+
+    <Field Def="s32 Unk0021"></Field>
+    <Field Def="s32 Unk0022"></Field>
+    <Field Def="s32 Unk0023"></Field>
+    <Field Def="s32 Unk0024"></Field>
+
+    <Field Def="s32 Unk0025"></Field>
+    <Field Def="s32 Unk0026"></Field>
+    <Field Def="s32 Unk0027"></Field>
+    <Field Def="s32 Unk0028"></Field>
+
+    <Field Def="s32 Unk0029"></Field>
+    <Field Def="s32 Unk0030"></Field>
+    <Field Def="s32 Unk0031"></Field>
+    <Field Def="s32 Unk0032"></Field>
+  </Fields>
+</PARAMDEF>
