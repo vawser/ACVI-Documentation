@@ -6,6 +6,7 @@
   <Unicode>True</Unicode>
   <FormatVersion>203</FormatVersion>
   <Fields>
-    <Field Def="dummy8 paramSize[32]" />
+    <!-- <Field Def="dummy8 paramSize[32]" /> -->
+    <Field Def="fixstr ParamStr[32]"></Field>
   </Fields>
 </PARAMDEF>

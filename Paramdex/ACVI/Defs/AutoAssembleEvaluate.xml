@@ -6,6 +6,10 @@
   <Unicode>True</Unicode>
   <FormatVersion>203</FormatVersion>
   <Fields>
-    <Field Def="dummy8 temp[1]" />
+    <!-- <Field Def="dummy8 paramSize[16]" /> -->
+    <Field Def="s32 Unk0001"></Field>
+    <Field Def="f32 Unk0002"></Field>
+    <Field Def="s32 Unk0003"></Field>
+    <Field Def="s32 Unk0004"></Field>
   </Fields>
 </PARAMDEF>

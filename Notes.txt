@@ -1,0 +1,9 @@
+﻿CutsceneMapIdParam
+EquipParamBooster
+EquipParamFcs
+EquipParamGenerator
+EquipParamProtector
+EquipParamWeapon
+MapAreaParam
+MissionParam
+NpcParam
