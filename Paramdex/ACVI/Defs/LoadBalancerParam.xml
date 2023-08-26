@@ -6,6 +6,6 @@
   <Unicode>True</Unicode>
   <FormatVersion>203</FormatVersion>
   <Fields>
-    <Field Def="dummy8 paramSize[80]" />
+    <Field Def="dummy8 temp[1]" />
   </Fields>
 </PARAMDEF>
