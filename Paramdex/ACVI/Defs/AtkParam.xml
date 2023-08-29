@@ -7,122 +7,96 @@
   <FormatVersion>203</FormatVersion>
   <Fields>
     <!-- <Field Def="dummy8 paramSize[1032]" /> -->
-    <Field Def="f32 hit0_Radius"></Field>
-    <Field Def="f32 hit1_Radius"></Field>
-    <Field Def="f32 hit2_Radius"></Field>
-    <Field Def="f32 hit3_Radius"></Field>
-    <Field Def="f32 knockbackDist"></Field>
-    <Field Def="f32 hitStopTime"></Field>
-    <Field Def="s32 spEffectId0 = -1"></Field>
-    <Field Def="s32 spEffectId1 = -1"></Field>
-    <Field Def="s32 spEffectId2 = -1"></Field>
-    <Field Def="s32 spEffectId3 = -1"></Field>
-    <Field Def="s32 spEffectId4 = -1"></Field>
-    <Field Def="s16 hit0_DmyPoly1"></Field>
-    <Field Def="s16 hit1_DmyPoly1"></Field>
-    <Field Def="s16 hit2_DmyPoly1"></Field>
-    <Field Def="s16 hit3_DmyPoly1"></Field>
-    <Field Def="s16 hit0_DmyPoly2"></Field>
-    <Field Def="s16 hit1_DmyPoly2"></Field>
-    <Field Def="s16 hit2_DmyPoly2"></Field>
-    <Field Def="s16 hit3_DmyPoly2"></Field>
-    <Field Def="u16 blowingCorrection"></Field>
-    <Field Def="u16 atkPhysCorrection"></Field>
-    <Field Def="u16 atkMagCorrection"></Field>
-    <Field Def="u16 atkFireCorrection"></Field>
-    <Field Def="u16 atkThunCorrection"></Field>
-    <Field Def="u16 atkStamCorrection"></Field>
-    <Field Def="u16 guardAtkRateCorrection"></Field>
-    <Field Def="u16 guardBreakCorrection"></Field>
-    <Field Def="u16 atkThrowEscapeCorrection"></Field>
-    <Field Def="u8 subCategory1"></Field>
-    <Field Def="u8 subCategory2"></Field>
-    <Field Def="u16 atkPhys"></Field>
-    <Field Def="u16 atkMag"></Field>
-    <Field Def="u16 atkFire"></Field>
-    <Field Def="u16 atkThun"></Field>
-    <Field Def="u16 atkStam"></Field>
-    <Field Def="u16 guardAtkRate"></Field>
-    <Field Def="u16 guardBreakRate"></Field>
-    <Field Def="dummy8 pad6[1]"></Field>
-    <Field Def="u8 isEnableCalcDamageForBushesObj"></Field>
-    <Field Def="u16 atkThrowEscape"></Field>
-    <Field Def="u16 atkObj"></Field>
-    <Field Def="s16 guardStaminaCutRate"></Field>
-    <Field Def="s16 guardRate"></Field>
-    <Field Def="u16 throwTypeId"></Field>
-    <Field Def="u8 hit0_hitType"></Field>
-    <Field Def="u8 hit1_hitType"></Field>
-    <Field Def="u8 hit2_hitType"></Field>
-    <Field Def="u8 hit3_hitType"></Field>
-    <Field Def="u8 hti0_Priority"></Field>
-    <Field Def="u8 hti1_Priority"></Field>
-    <Field Def="u8 hti2_Priority"></Field>
-    <Field Def="u8 hti3_Priority"></Field>
-    <Field Def="u8 dmgLevel"></Field>
-    <Field Def="u8 mapHitType"></Field>
-    <Field Def="s8 guardCutCancelRate"></Field>
-    <Field Def="u8 atkAttribute"></Field>
-    <Field Def="u8 spAttribute"></Field>
-    <Field Def="u8 atkType"></Field>
-    <Field Def="u8 atkMaterial"></Field>
-    <Field Def="u8 guardRangeType"></Field>
-    <Field Def="u16 defSeMaterial1"></Field>
-    <Field Def="u8 hitSourceType"></Field>
-    <Field Def="u8 throwFlag"></Field>
-    <Field Def="u8 disableGuard:1"></Field>
-    <Field Def="u8 disableStaminaAttack:1"></Field>
-    <Field Def="u8 disableHitSpEffect:1"></Field>
-    <Field Def="u8 IgnoreNotifyMissSwingForAI:1"></Field>
-    <Field Def="u8 repeatHitSfx:1"></Field>
-    <Field Def="u8 isArrowAtk:1"></Field>
-    <Field Def="u8 isGhostAtk:1"></Field>
-    <Field Def="u8 isDisableNoDamage:1"></Field>
-    <Field Def="s8 atkPow_forSfx"></Field>
-    <Field Def="s8 atkDir_forSfx"></Field>
-    <Field Def="u8 opposeTarget:1 = 1"></Field>
-    <Field Def="u8 friendlyTarget:1"></Field>
-    <Field Def="u8 selfTarget:1"></Field>
-    <Field Def="u8 isCheckDoorPenetration:1"></Field>
-    <Field Def="u8 isVsRideAtk:1"></Field>
-    <Field Def="u8 isAddBaseAtk:1"></Field>
-    <Field Def="u8 excludeThreatLvNotify:1"></Field>
-    <Field Def="dummy8 pad1:1"></Field>
-    <Field Def="u8 atkBehaviorId"></Field>
-    <Field Def="s8 atkPow_forSe"></Field>
-    <Field Def="s32 atkSuperArmor"></Field>
-    <Field Def="s32 decalId1 = -1"></Field>
-    <Field Def="s32 decalId2 = -1"></Field>
-    <Field Def="s32 AppearAiSoundId"></Field>
-    <Field Def="s32 HitAiSoundId"></Field>
-    <Field Def="s32 HitRumbleId = -1"></Field>
-    <Field Def="s32 HitRumbleIdByNormal = -1"></Field>
-    <Field Def="s32 HitRumbleIdByMiddle = -1"></Field>
-    <Field Def="s32 HitRumbleIdByRoot = -1"></Field>
-    <Field Def="s32 traceSfxId0 = -1"></Field>
-    <Field Def="s32 traceDmyIdHead0 = -1"></Field>
-    <Field Def="s32 traceDmyIdTail0 = -1"></Field>
-    <Field Def="s32 traceSfxId1 = -1"></Field>
-    <Field Def="s32 traceDmyIdHead1 = -1"></Field>
-    <Field Def="s32 traceDmyIdTail1 = -1"></Field>
-    <Field Def="s32 traceSfxId2 = -1"></Field>
-    <Field Def="s32 traceDmyIdHead2 = -1"></Field>
-    <Field Def="s32 traceDmyIdTail2 = -1"></Field>
-    <Field Def="s32 traceSfxId3 = -1"></Field>
-    <Field Def="s32 traceDmyIdHead3 = -1"></Field>
-    <Field Def="s32 traceDmyIdTail3 = -1"></Field>
-    <Field Def="s32 traceSfxId4 = -1"></Field>
-    <Field Def="s32 traceDmyIdHead4 = -1"></Field>
-    <Field Def="s32 traceDmyIdTail4 = -1"></Field>
-    <Field Def="s32 traceSfxId5 = -1"></Field>
-    <Field Def="s32 traceDmyIdHead5 = -1"></Field>
-    <Field Def="s32 traceDmyIdTail5 = -1"></Field>
-    <Field Def="s32 traceSfxId6 = -1"></Field>
-    <Field Def="s32 traceDmyIdHead6 = -1"></Field>
-    <Field Def="s32 traceDmyIdTail6 = -1"></Field>
-    <Field Def="s32 traceSfxId7 = -1"></Field>
-    <Field Def="s32 traceDmyIdHead7 = -1"></Field>
-    <Field Def="s32 traceDmyIdTail7 = -1"></Field>
+    <Field Def="s32 Unk0x00"></Field>
+    <Field Def="f32 Unk0x04"></Field>
+    <Field Def="s32 Unk0x08"></Field>
+    <Field Def="s32 Unk0x0C"></Field>
+    <Field Def="s32 Unk0x10"></Field>
+    <Field Def="f32 Unk0x14"></Field>
+    <Field Def="f32 Unk0x18"></Field>
+    <Field Def="s32 Unk0x1C"></Field>
+    <Field Def="s32 Unk0x20"></Field>
+    <Field Def="s32 Unk0x24"></Field>
+    <Field Def="s32 Unk0x28"></Field>
+    <Field Def="s32 Unk0x2C"></Field>
+    <Field Def="u16 Unk0x30"></Field>
+    <Field Def="u16 Unk0x32"></Field>
+    <Field Def="u8 Unk0x34"></Field>
+    <Field Def="u8 Unk0x35"></Field>
+    <Field Def="u8 Unk0x36"></Field>
+    <Field Def="u8 Unk0x37"></Field>
+    <Field Def="u8 Unk0x38"></Field>
+    <Field Def="u8 Unk0x39"></Field>
+    <Field Def="u8 Unk0x3A"></Field>
+    <Field Def="u8 Unk0x3B"></Field>
+    <Field Def="u8 Unk0x3C"></Field>
+    <Field Def="u8 Unk0x3D"></Field>
+    <Field Def="u8 Unk0x3E"></Field>
+    <Field Def="u8 Unk0x3F"></Field>
+    <Field Def="u16 Unk0x40"></Field>
+    <Field Def="u16 attackPower_Kinetic"></Field>
+    <Field Def="u16 attackPower_Energy"></Field>
+    <Field Def="u16 attackPower_Explosive"></Field>
+    <Field Def="u16 attackPower_Coral"></Field>
+    <Field Def="u16 Unk0x4A"></Field>
+    <Field Def="u16 Unk0x4C"></Field>
+    <Field Def="u16 Unk0x4E"></Field>
+    <Field Def="u16 Unk0x50"></Field>
+    <Field Def="u16 Unk0x52"></Field>
+    <Field Def="s32 Unk0x54"></Field>
+    <Field Def="s32 Unk0x58"></Field>
+    <Field Def="s32 Unk0x5C"></Field>
+    <Field Def="s32 Unk0x60"></Field>
+    <Field Def="u16 Unk0x64"></Field>
+    <Field Def="u16 Unk0x66"></Field>
+    <Field Def="s32 Unk0x68"></Field>
+    <Field Def="s32 Unk0x6C"></Field>
+    <Field Def="s32 Unk0x70"></Field>
+    <Field Def="u16 Unk0x74"></Field>
+    <Field Def="u16 Unk0x76"></Field>
+    <Field Def="u16 Unk0x78"></Field>
+    <Field Def="u16 Unk0x7A"></Field>
+    <Field Def="u16 Unk0x7C"></Field>
+    <Field Def="u16 Unk0x7E"></Field>
+    <Field Def="u16 Unk0x80"></Field>
+    <Field Def="u16 Unk0x82"></Field>
+    <Field Def="u16 Unk0x84"></Field>
+    <Field Def="u16 Unk0x86"></Field>
+    <Field Def="s32 Unk0x88"></Field>
+    <Field Def="s32 Unk0x8C"></Field>
+    <Field Def="s32 Unk0x90"></Field>
+    <Field Def="s32 Unk0x94"></Field>
+    <Field Def="s32 Unk0x98"></Field>
+    <Field Def="s32 Unk0x9C"></Field>
+    <Field Def="s32 Unk0xA0"></Field>
+    <Field Def="s32 Unk0xA4"></Field>
+    <Field Def="s32 Unk0xA8"></Field>
+    <Field Def="s32 Unk0xAC"></Field>
+    <Field Def="s32 Unk0xB0"></Field>
+    <Field Def="s32 Unk0xB4"></Field>
+    <Field Def="s32 Unk0xB8"></Field>
+    <Field Def="s32 Unk0xBC"></Field>
+    <Field Def="s32 Unk0xC0"></Field>
+    <Field Def="s32 Unk0xC4"></Field>
+    <Field Def="s32 Unk0xC8"></Field>
+    <Field Def="s32 Unk0xCC"></Field>
+    <Field Def="s32 Unk0xD0"></Field>
+    <Field Def="s32 Unk0xD4"></Field>
+    <Field Def="s32 Unk0xD8"></Field>
+    <Field Def="s32 Unk0xDC"></Field>
+    <Field Def="s32 Unk0xE0"></Field>
+    <Field Def="s32 Unk0xE4"></Field>
+    <Field Def="s32 Unk0xE8"></Field>
+    <Field Def="s32 Unk0xEC"></Field>
+    <Field Def="s32 Unk0xF0"></Field>
+    <Field Def="s32 Unk0xF4"></Field>
+    <Field Def="s32 Unk0xF8"></Field>
+    <Field Def="s32 Unk0xFC"></Field>
+    <Field Def="s32 Unk0x100"></Field>
+    <Field Def="s32 Unk0x104"></Field>
+    <Field Def="s32 Unk0x108"></Field>
+    <Field Def="s32 Unk0x10C"></Field>
+    <Field Def="s32 Unk0x110"></Field>
     <Field Def="s32 Unk0x114"></Field>
     <Field Def="s32 Unk0x118"></Field>
     <Field Def="s32 Unk0x11C"></Field>
@@ -152,41 +126,51 @@
     <Field Def="s32 Unk0x17C"></Field>
     <Field Def="s32 Unk0x180"></Field>
     <Field Def="s32 Unk0x184"></Field>
-    <Field Def="s32 Unk0x188"></Field>
+    <Field Def="u16 Unk0x188"></Field>
+    <Field Def="u16 Unk0x18A"></Field>
     <Field Def="s32 Unk0x18C"></Field>
     <Field Def="s32 Unk0x190"></Field>
-    <Field Def="s32 Unk0x194"></Field>
+    <Field Def="f32 Unk0x194"></Field>
     <Field Def="s32 Unk0x198"></Field>
-    <Field Def="s32 Unk0x19C"></Field>
+    <Field Def="f32 Unk0x19C"></Field>
     <Field Def="f32 Unk0x1A0"></Field>
-    <Field Def="s32 Unk0x1A4"></Field>
-    <Field Def="f32 Unk0x1A8"></Field>
-    <Field Def="f32 Unk0x1AC"></Field>
+    <Field Def="f32 Unk0x1A4"></Field>
+    <Field Def="u16 Unk0x1A8"></Field>
+    <Field Def="u16 Unk0x1AA"></Field>
+    <Field Def="s32 Unk0x1AC"></Field>
     <Field Def="s32 Unk0x1B0"></Field>
     <Field Def="s32 Unk0x1B4"></Field>
-    <Field Def="s32 Unk0x1B8"></Field>
+    <Field Def="u16 Unk0x1B8"></Field>
+    <Field Def="u16 Unk0x1BA"></Field>
     <Field Def="s32 Unk0x1BC"></Field>
-    <Field Def="s32 Unk0x1C0"></Field>
+    <Field Def="f32 Unk0x1C0"></Field>
     <Field Def="s32 Unk0x1C4"></Field>
-    <Field Def="f32 Unk0x1C8"></Field>
-    <Field Def="f32 Unk0x1CC"></Field>
+    <Field Def="s32 Unk0x1C8"></Field>
+    <Field Def="s32 Unk0x1CC"></Field>
     <Field Def="s32 Unk0x1D0"></Field>
-    <Field Def="f32 Unk0x1D4"></Field>
-    <Field Def="s32 Unk0x1D8"></Field>
-    <Field Def="s32 Unk0x1DC"></Field>
+    <Field Def="s32 Unk0x1D4"></Field>
+    <Field Def="u16 Unk0x1D8"></Field>
+    <Field Def="u8 Unk0x1DA"></Field>
+    <Field Def="u8 Unk0x1DB"></Field>
+    <Field Def="u16 Unk0x1DC"></Field>
+    <Field Def="u16 Unk0x1DE"></Field>
     <Field Def="s32 Unk0x1E0"></Field>
     <Field Def="s32 Unk0x1E4"></Field>
     <Field Def="s32 Unk0x1E8"></Field>
     <Field Def="s32 Unk0x1EC"></Field>
-    <Field Def="s32 Unk0x1F0"></Field>
-    <Field Def="s32 Unk0x1F4"></Field>
+    <Field Def="f32 Unk0x1F0"></Field>
+    <Field Def="f32 Unk0x1F4"></Field>
     <Field Def="s32 Unk0x1F8"></Field>
-    <Field Def="f32 Unk0x1FC"></Field>
-    <Field Def="s32 Unk0x200"></Field>
-    <Field Def="s32 Unk0x204"></Field>
-    <Field Def="s32 Unk0x208"></Field>
-    <Field Def="f32 Unk0x20C"></Field>
-    <Field Def="s32 Unk0x210"></Field>
+    <Field Def="s32 Unk0x1FC"></Field>
+    <Field Def="f32 Unk0x200"></Field>
+    <Field Def="u16 Unk0x204"></Field>
+    <Field Def="u16 Unk0x206"></Field>
+    <Field Def="u16 Unk0x208"></Field>
+    <Field Def="u16 Unk0x20A"></Field>
+    <Field Def="u16 Unk0x20C"></Field>
+    <Field Def="u16 weaponImpact"></Field>
+    <Field Def="u16 weaponChargedImpact"></Field>
+    <Field Def="u16 Unk0x212"></Field>
     <Field Def="s32 Unk0x214"></Field>
     <Field Def="s32 Unk0x218"></Field>
     <Field Def="s32 Unk0x21C"></Field>
@@ -257,16 +241,20 @@
     <Field Def="s32 Unk0x320"></Field>
     <Field Def="s32 Unk0x324"></Field>
     <Field Def="s32 Unk0x328"></Field>
-    <Field Def="s32 Unk0x32C"></Field>
+    <Field Def="u16 Unk0x32C"></Field>
+    <Field Def="u16 Unk0x32E"></Field>
     <Field Def="s32 Unk0x330"></Field>
-    <Field Def="s32 Unk0x334"></Field>
+    <Field Def="f32 Unk0x334"></Field>
     <Field Def="s32 Unk0x338"></Field>
     <Field Def="s32 Unk0x33C"></Field>
     <Field Def="f32 Unk0x340"></Field>
     <Field Def="s32 Unk0x344"></Field>
-    <Field Def="s32 Unk0x348"></Field>
-    <Field Def="s32 Unk0x34C"></Field>
-    <Field Def="s32 Unk0x350"></Field>
+    <Field Def="u16 Unk0x348"></Field>
+    <Field Def="u16 Unk0x34A"></Field>
+    <Field Def="u16 Unk0x34C"></Field>
+    <Field Def="u16 Unk0x34E"></Field>
+    <Field Def="u16 Unk0x350"></Field>
+    <Field Def="u16 Unk0x352"></Field>
     <Field Def="s32 Unk0x354"></Field>
     <Field Def="s32 Unk0x358"></Field>
     <Field Def="s32 Unk0x35C"></Field>
@@ -293,15 +281,15 @@
     <Field Def="s32 Unk0x3B0"></Field>
     <Field Def="s32 Unk0x3B4"></Field>
     <Field Def="s32 Unk0x3B8"></Field>
-    <Field Def="s32 Unk0x3BC"></Field>
-    <Field Def="s32 Unk0x3C0"></Field>
-    <Field Def="s32 Unk0x3C4"></Field>
-    <Field Def="f32 Unk0x3C8"></Field>
-    <Field Def="f32 Unk0x3CC"></Field>
-    <Field Def="f32 Unk0x3D0"></Field>
+    <Field Def="f32 Unk0x3BC"></Field>
+    <Field Def="f32 Unk0x3C0"></Field>
+    <Field Def="f32 Unk0x3C4"></Field>
+    <Field Def="s32 Unk0x3C8"></Field>
+    <Field Def="s32 Unk0x3CC"></Field>
+    <Field Def="s32 Unk0x3D0"></Field>
     <Field Def="s32 Unk0x3D4"></Field>
     <Field Def="s32 Unk0x3D8"></Field>
-    <Field Def="s32 Unk0x3DC"></Field>
+    <Field Def="s32 weaponChargedAccumulativeImpact"></Field>
     <Field Def="s32 Unk0x3E0"></Field>
     <Field Def="s32 Unk0x3E4"></Field>
     <Field Def="s32 Unk0x3E8"></Field>
@@ -312,8 +300,5 @@
     <Field Def="s32 Unk0x3FC"></Field>
     <Field Def="s32 Unk0x400"></Field>
     <Field Def="s32 Unk0x404"></Field>
-    <Field Def="s32 Unk0x408"></Field>
-    <Field Def="s32 Unk0x40C"></Field>
-    <Field Def="s32 Unk0x410"></Field>
   </Fields>
 </PARAMDEF>

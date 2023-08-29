@@ -95,7 +95,7 @@
     <Field Def="s32 Unk0x130"></Field>
     <Field Def="s32 Unk0x134"></Field>
     <Field Def="s32 Unk0x138"></Field>
-    <Field Def="f32 Unk0x13C"></Field>
+    <Field Def="f32 Unk0x13C"></Field> <!-- Related to level borders -->
     <Field Def="s32 Unk0x140"></Field>
     <Field Def="s32 Unk0x144"></Field>
     <Field Def="s32 Unk0x148"></Field>
