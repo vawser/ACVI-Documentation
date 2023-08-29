@@ -7,8 +7,8 @@
   <FormatVersion>203</FormatVersion>
   <Fields>
     <!-- <Field Def="dummy8 paramSize[16]" /> -->
-    <Field Def="s32 Unk0x00"></Field>
-    <Field Def="s32 Unk0x04"></Field>
+    <Field Def="s32 textRangeId"></Field> <!-- Points to the first id for the 'text' range -->
+    <Field Def="s32 menuDecalId"></Field>
     <Field Def="s32 Unk0x08"></Field>
     <Field Def="s32 Unk0x0C"></Field>
   </Fields>

@@ -109,8 +109,8 @@
     <Field Def="s32 Unk0x18C"></Field>
     <Field Def="s32 Unk0x190"></Field>
     <Field Def="s32 Unk0x194"></Field>
-    <Field Def="s32 en_load"></Field>
-    <Field Def="s32 ap"></Field>
+    <Field Def="s32 energyLoad"></Field>
+    <Field Def="s32 armorPoints"></Field>
     <Field Def="s32 Unk0x1A0"></Field>
     <Field Def="s32 Unk0x1A4"></Field>
     <Field Def="s32 Unk0x1A8"></Field>
@@ -129,7 +129,7 @@
     <Field Def="f32 Unk0x1DC"></Field>
     <Field Def="f32 Unk0x1E0"></Field>
     <Field Def="s32 Unk0x1E4"></Field>
-    <Field Def="s32 attitude_stability"></Field>
+    <Field Def="s32 attitudeStability"></Field>
     <Field Def="s32 Unk0x1EC"></Field>
     <Field Def="s32 Unk0x1F0"></Field>
     <Field Def="s32 Unk0x1F4"></Field>
@@ -152,7 +152,7 @@
     <Field Def="f32 Unk0x238"></Field>
     <Field Def="s32 Unk0x23C"></Field>
     <Field Def="s32 Unk0x240"></Field>
-    <Field Def="s32 load_limit"></Field>
+    <Field Def="s32 loadLimit"></Field>
     <Field Def="s32 Unk0x248"></Field>
     <Field Def="s32 Unk0x24C"></Field>
     <Field Def="s32 Unk0x250"></Field>
@@ -187,7 +187,7 @@
     <Field Def="s32 Unk0x2C4"></Field>
     <Field Def="s32 Unk0x2C8"></Field>
     <Field Def="s32 Unk0x2CC"></Field>
-    <Field Def="f32 arms_load_limit"></Field>
+    <Field Def="f32 armsLoadLimit"></Field>
     <Field Def="f32 Unk0x2D4"></Field>
     <Field Def="f32 Unk0x2D8"></Field>
     <Field Def="f32 Unk0x2DC"></Field>
