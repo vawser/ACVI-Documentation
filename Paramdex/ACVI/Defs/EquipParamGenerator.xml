@@ -15,10 +15,11 @@
     <Field Def="s32 energyCapacity"></Field>
     <Field Def="s32 energyOutput"></Field>
     <Field Def="s32 Unk0x18"></Field>
-    <Field Def="f32 Unk0x1C"></Field>
-    <Field Def="f32 Unk0x20"></Field>
-    <Field Def="f32 Unk0x24"></Field>
-    <Field Def="s32 Unk0x28"></Field>
+    <Field Def="f32 enRecharge"></Field>
+    <!-- The following two fields are inverse multipliers. 1x == 1000 (base value), 4x == 250, etc. Game value == 1000/x. -->
+    <Field Def="f32 supplyRecovery"></Field>
+    <Field Def="f32 postRecoveryEnSupply"></Field>
+    <Field Def="s32 energyFirearmSpec"></Field>
     <Field Def="s32 Unk0x2C"></Field>
     <Field Def="s32 Unk0x30"></Field>
     <Field Def="s32 Unk0x34"></Field>
