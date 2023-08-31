@@ -224,7 +224,9 @@
     <Field Def="s32 Unk0x1FC"></Field>
     <Field Def="u16 Unk0x200"></Field>
     <Field Def="u16 Unk0x202"></Field>
-    <Field Def="s32 Unk0x204"></Field>
+    <Field Def="s32 demonstrationVideoBinkId">
+        <Description>Refers to the video filename in Game/movie/</Description>
+    </Field>
     <Field Def="s32 Unk0x208"></Field>
     <Field Def="s32 Unk0x20C"></Field>
     <Field Def="s32 Unk0x210"></Field>

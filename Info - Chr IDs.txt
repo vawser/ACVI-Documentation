@@ -1,91 +1,65 @@
-c3000
-c3001
-c3002
-c3020
-c3050
-c3100
-c3150
-c3200
-c3250
-c3260
-c3300
-c3400
-c3500
-c3600
-c3700
-c4000
-c4100
-c4150
-c4200
-c4201
-c4250
-c4260
-c5000
-c5010
-c5100
-c5101
-c5120
-c5150
-c5200
-c5250
-c5300
-c5500
-c6000
-c6010
-c6050
-c6100
-c6101
-c6250
-c6350
-c6400
-c6401
-c6410
-c6420
-c7220
-c7221
-c7222
-c7223
-c7224
-c7230
-c7240
-c7250
-c7260
-c7261
-c7262
-c7270
-c7280
-c7290
-c7300
-c7310
-c7320
-c7390
-c7400
-c7401
-c7402
-c7403
-c7410
-c8000
-c8020
-c8040
-c8060
-c8110
-c8130
-c8135
-c8145
-c8200
-c8250
-c8300
-c8510
-c8530
-c8535
-c8536
-c8540
-c9000
-c9201
-c9400
-c9401
-c9410
-c9411
-c9420
-c9431
-c9980
+c0000	Armored Core
+c3000	?Grunt? ~ 100 HP
+c3001	?Grunt? ~ 450 HP
+c3002	?Grunt? ~ 504 HP
+c3020	Light MT
+c3050	?Grunt? ~ 437 HP
+c3100	?Grunt? ~ 840 HP
+c3150	Juggernaut - Mobile Artillery Platform
+c3200	Ekdromoi - Elite Craft
+c3250	Light Cavalry #1
+c3260	Heavy Cavalry
+c3300	Light Cavalry #2
+c3310   ?Enemy? ~ 3820 HP
+c3400	?Enemy? ~ 13370 HP
+c3500	?Enemy? ~ 9550 HP
+c3600	?Grunt? ~ 650 HP
+c3700	?Grunt? ~ 1254 HP
+c4000	Cataphract
+c4100	Balteus
+c4150	?Grunt? ~ 1848 HP
+c4200	Ayre
+c4201	ALLMIND
+c4210	?Enemy? ~ 9999999 HP
+c4250	CEL 240
+c4260	?Enemy? ~ 9999999 HP
+c5000	Copter Drone
+c5010	?Grunt? ~51 HP
+c5020	Smart Cleaner
+c5100	Quadcopter
+c5101	?Enemy? ~ 11200 HP
+c5120	?Grunt? ~ 302 HP
+c5150	?Grunt? ~ 28 HP
+c5200	?Grunt? ~ 78 HP
+c5250	?Enemy? ~ 1250 HP
+c5300	?Grunt? ~ 67 HP
+c5500	?Grunt? ~ 113 HP
+c6050	HC Helicopter
+c6100	Sea Spider
+c6101	?Enemy? ~ 9999999 HP
+c6250	Ice Worm
+c6350	?Enemy? ~ 2500 HP
+c6400	Strider #1
+c6420	Strider #2
+c7222	RaD Missile
+c7230	?Grunt? ~ 470 HP
+c7240	?Grunt? ~ 269 HP
+c7250	?Grunt? ~ 403 HP
+c7260	?Grunt? ~ 202 HP
+c7261	?Grunt? ~ 470 HP
+c7262	?Grunt? ~ 470 HP
+c7270	?Grunt? ~ 437 HP
+c7280	?Grunt? ~ 302 HP
+c7290	?Enemy? ~ 1131 HP
+c7300	?Grunt? ~ 250 HP
+c7310	?Grunt? ~ 437 HP
+c7320	?Grunt? ~ 437 HP
+c7390	Nepenthes
+c7400	Heavy Warship
+c7401	?Grunt? ~ 134 HP
+c7402	?Grunt? ~ 90 HP
+c7403	?Grunt? ~ 90 HP
+c7410	?Grunt? ~ 350 HP
+c8135	Enforcer
+c8145	?Enemy? ~ 52525 HP
+c9980	Dummy

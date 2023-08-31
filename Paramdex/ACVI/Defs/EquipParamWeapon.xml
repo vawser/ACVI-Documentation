@@ -481,7 +481,9 @@
     <Field Def="u8 Unk0x5D0"></Field>
     <Field Def="u8 Unk0x5D1"></Field>
     <Field Def="u16 Unk0x5D2"></Field>
-    <Field Def="s32 Unk0x5D4"></Field>
+    <Field Def="s32 demonstrationVideoBinkId">
+        <Description>Refers to the video filename in Game/movie/</Description>
+    </Field>
     <Field Def="u16 Unk0x5D8"></Field>
     <Field Def="u16 Unk0x5DA"></Field>
     <Field Def="s32 Unk0x5DC"></Field>
