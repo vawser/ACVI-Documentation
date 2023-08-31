@@ -266,15 +266,11 @@
     <Field Def="f32 weaponIdealRange">
         <Description>Range at which attack power is guaranteed without ricocheting. Applies regardless of the target's defenses, with the exception of some special armor.</Description>
     </Field>
-    <Field Def="f32 Unk0x2AC"></Field>
-    <Field Def="u8 Unk0x2B0"></Field>
-    <Field Def="u8 Unk0x2B1"></Field>
-    <Field Def="u8 Unk0x2B2"></Field>
-    <Field Def="u8 Unk0x2B3"></Field>
-    <Field Def="u8 Unk0x2B4"></Field>
-    <Field Def="u8 Unk0x2B5"></Field>
-    <Field Def="u8 Unk0x2B6"></Field>
-    <Field Def="u8 Unk0x2B7"></Field>
+    <Field Def="f32 weaponEffectiveRange">
+        <Description>Range at which attacks are effective. This is based on the armor of standard ACs and can vary depending on the defenses of the target.</Description>
+    </Field>
+    <Field Def="s32 Unk0x2B0"></Field>
+    <Field Def="s32 Unk0x2B4"></Field>
     <Field Def="s32 Unk0x2B8"></Field>
     <Field Def="f32 Unk0x2BC"></Field>
     <Field Def="f32 Unk0x2C0"></Field>
@@ -282,10 +278,7 @@
     <Field Def="f32 Unk0x2C8"></Field>
     <Field Def="f32 Unk0x2CC"></Field>
     <Field Def="f32 Unk0x2D0"></Field>
-    <Field Def="u8 Unk0x2D4"></Field>
-    <Field Def="u8 Unk0x2D5"></Field>
-    <Field Def="u8 Unk0x2D6"></Field> <!-- Always 0 -->
-    <Field Def="u8 Unk0x2D7"></Field>
+    <Field Def="s32 Unk0x2D4"></Field>
     <Field Def="s32 Unk0x2D8"></Field> <!-- Always 0 -->
     <Field Def="s32 Unk0x2DC"></Field> <!-- Always 0 -->
     <Field Def="f32 Unk0x2E0"></Field>
@@ -300,9 +293,7 @@
     <Field Def="u8 Unk0x301"></Field>
     <Field Def="u8 Unk0x302"></Field>
     <Field Def="u8 Unk0x303"></Field>
-    <Field Def="f32 weaponEffectiveRange">
-        <Description>Range at which attacks are effective. This is based on the armor of standard ACs and can vary depending on the defenses of the target.</Description>
-    </Field>
+    <Field Def="f32 Unk0x304"></Field>
     <Field Def="f32 Unk0x308"></Field>
     <Field Def="f32 Unk0x30C"></Field>
     <Field Def="f32 Unk0x310"></Field>
