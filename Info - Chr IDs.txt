@@ -1,5 +1,5 @@
 c0000	Armored Core
-c3000	?Grunt? ~ 100 HP
+c3000	Guard Mech
 c3001	?Grunt? ~ 450 HP
 c3002	?Grunt? ~ 504 HP
 c3020	Light MT
