@@ -327,7 +327,7 @@
     <Field Def="s32 Unk0x2FC"></Field>
     <Field Def="s32 Unk0x300"></Field>
     <Field Def="s32 Unk0x304"></Field>
-    <Field Def="s32 Unk0x308"></Field>
+    <Field Def="s32 Unk0x308"></Field> <!-- WepMotionCategory -->
     <Field Def="s32 Unk0x30C"></Field>
     <Field Def="s32 Unk0x310"></Field>
     <Field Def="s32 Unk0x314"></Field>

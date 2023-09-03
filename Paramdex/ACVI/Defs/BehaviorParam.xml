@@ -38,7 +38,7 @@
     <Field Def="f32 Unk0x48"></Field>
     <Field Def="s32 Unk0x4C"></Field>
     <Field Def="f32 Unk0x50"></Field>
-    <Field Def="f32 Unk0x54"></Field>
+    <Field Def="f32 rateOfFire"></Field>
     <Field Def="f32 Unk0x58"></Field>
     <Field Def="s32 Unk0x5C"></Field>
     <Field Def="s32 Unk0x60"></Field>
