@@ -98,27 +98,27 @@
 21300000 King
 21301000 King
 21400000 51-001 K
-30000000 Guard Mech - First Training Mission
-30000099 Guard Mech - First Training Mission
-30000100 Guard Mech - First Training Mission
-30000199 Guard Mech - First Training Mission
-30000200 Guard Mech - First Training Mission
-30000201 Guard Mech - First Training Mission
-30000299 Guard Mech - First Training Mission
-30000900 Guard Mech - First Training Mission
-30000902 Guard Mech - First Training Mission
-30000903 Guard Mech - First Training Mission
-30000904 Guard Mech - First Training Mission
-30000905 Guard Mech - First Training Mission
-30001001 Guard Mech - First Training Mission
-30001002 Guard Mech - First Training Mission
-30001003 Guard Mech - First Training Mission
-30001004 Guard Mech - First Training Mission
-30001100 Guard Mech - First Training Mission
-30004000 Guard Mech - First Training Mission
-30004001 Guard Mech - First Training Mission
-30004002 Guard Mech - First Training Mission
-30004100 Guard Mech - First Training Mission
+30000000 Guard Mech
+30000099 Guard Mech
+30000100 Guard Mech
+30000199 Guard Mech
+30000200 Guard Mech
+30000201 Guard Mech
+30000299 Guard Mech
+30000900 Guard Mech
+30000902 Guard Mech
+30000903 Guard Mech
+30000904 Guard Mech
+30000905 Guard Mech
+30001001 Guard Mech
+30001002 Guard Mech
+30001003 Guard Mech
+30001004 Guard Mech
+30001100 Guard Mech
+30004000 Guard Mech
+30004001 Guard Mech
+30004002 Guard Mech
+30004100 Guard Mech
 30010000 Generic Weaponry - Unknown
 30010950 Generic Weaponry - Unknown
 30010951 Generic Weaponry - Unknown
