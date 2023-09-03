@@ -1,65 +1,67 @@
-c0000	Armored Core
-c3000	Guard Mech
-c3001	?Grunt? ~ 450 HP
-c3002	?Grunt? ~ 504 HP
-c3020	Light MT
-c3050	?Grunt? ~ 437 HP
-c3100	?Grunt? ~ 840 HP
-c3150	Juggernaut - Mobile Artillery Platform
-c3200	Ekdromoi - Elite Craft
-c3250	Light Cavalry #1
-c3260	Heavy Cavalry
-c3300	Light Cavalry #2
-c3310   ?Enemy? ~ 3820 HP
-c3400	?Enemy? ~ 13370 HP
-c3500	?Enemy? ~ 9550 HP
-c3600	?Grunt? ~ 650 HP
-c3700	?Grunt? ~ 1254 HP
-c4000	Cataphract
-c4100	Balteus
-c4150	?Grunt? ~ 1848 HP
-c4200	Ayre
-c4201	ALLMIND
-c4210	?Enemy? ~ 9999999 HP
-c4250	CEL 240
-c4260	?Enemy? ~ 9999999 HP
-c5000	Copter Drone
-c5010	?Grunt? ~51 HP
-c5020	Smart Cleaner
-c5100	Quadcopter
-c5101	?Enemy? ~ 11200 HP
-c5120	?Grunt? ~ 302 HP
-c5150	?Grunt? ~ 28 HP
-c5200	?Grunt? ~ 78 HP
-c5250	?Enemy? ~ 1250 HP
-c5300	?Grunt? ~ 67 HP
-c5500	?Grunt? ~ 113 HP
-c6050	HC Helicopter
-c6100	Sea Spider
-c6101	?Enemy? ~ 9999999 HP
-c6250	Ice Worm
-c6350	?Enemy? ~ 2500 HP
-c6400	Strider #1
-c6420	Strider #2
-c7222	RaD Missile
-c7230	?Grunt? ~ 470 HP
-c7240	?Grunt? ~ 269 HP
-c7250	?Grunt? ~ 403 HP
-c7260	?Grunt? ~ 202 HP
-c7261	?Grunt? ~ 470 HP
-c7262	?Grunt? ~ 470 HP
-c7270	?Grunt? ~ 437 HP
-c7280	?Grunt? ~ 302 HP
-c7290	?Enemy? ~ 1131 HP
-c7300	?Grunt? ~ 250 HP
-c7310	?Grunt? ~ 437 HP
-c7320	?Grunt? ~ 437 HP
-c7390	Nepenthes
-c7400	Heavy Warship
-c7401	?Grunt? ~ 134 HP
-c7402	?Grunt? ~ 90 HP
-c7403	?Grunt? ~ 90 HP
-c7410	?Grunt? ~ 350 HP
-c8135	Enforcer
-c8145	?Enemy? ~ 52525 HP
-c9980	Dummy
+Model   ID
+c0000	AC	
+c3000	Guard Mech - 1st training mission
+c3001	Generic Weaponry - Unknown
+c3002	Generic Weaponry - Unknown
+c3020   Light MT	
+c3050	Light MT - Sniper (PCA)
+c3100	Xylem Drone - Uses energy projectiles and blades
+c3150	Juggernaut - Mobile Artillery Platform	
+c3200	Ekdromoi - Elite Craft	
+c3250	Light Cavalry - Bipedal Mech
+c3260	Heavy Cavalry - Bipedal Mech
+c3300	Light Cavalry #2 - Bipedal Mech
+c3400   Tetrapod MT (BAWS)
+c3500	Tank Drone (Institute)
+c3600   Light MT - Unknown
+c3700   PCA Weaponry - Unknown
+c4000	Cataphract	
+c4100	Balteus	
+c4150	TOYBOX Mech?	
+c4200	Ayre	
+c4201	ALLMIND	
+c4210   Unknown - 4 in Shut Down the Closure Sattelites
+c4250	CEL 240	
+c4260	CEL 240 Helper - The "wing" drones
+c5000	Copter Drone	
+c5010   Generic Weaponry - Unknown	
+c5020	Smart Cleaner	
+c5100	Quadcopter	
+c5101   Unknown  - 2 in Prisoner Rescue
+c5120	Quadcopter - Small
+c5150   Helicopter - Small
+c5200	Generic Weaponry - APC
+c5250	Helianthus Machine (Bonewheel)
+c5300	Laser Drone - Tiny
+c5500	Bloodworm
+c6050	HC Helicopter	
+c6100	Sea Spider	
+c6101   Orb
+c6250	Ice Worm	
+c6350   Unknown - In Central Ice Field base maps, almost no data
+c6400	Strider 1	
+c6420	Strider 2	
+c7222	RaD Missile	
+c7230	Artillery - Shielded Cannon
+c7240	Artillery - Cannon
+c7250	Artillery - Four Gatling Guns
+c7260	Artillery - Angled Missile Array
+c7261	Artillery - Vertical Missile Array
+c7262	Artillery - Frontal Missile Array
+c7270	Artillery - Autocannon
+c7280	Artillery - Laser Cannon
+c7290	Artillery - Watchpoint Delta
+c7300	Artillery - Pulse Gun
+c7310	Artillery - Plasma Gun
+c7320	Artillery - Three-Barrelled Cannon
+c7390	Nepenthes	
+c7400	Heavy Warship	
+c7401	Warship Mount - Cannon
+c7402	Warship Mount - Turret
+c7403	Warship Mount - Laser
+c7410	Laser Drone - Medium
+c8135	Enforcer	
+c8145   Unknown - 1 in Enforcer level - pre-boss version?
+c8535   Strider Eye
+c8536   Strider Foot
+c9980	Dummy	
